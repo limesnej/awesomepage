@@ -1,3 +1,2 @@
-function myFunc(){
-    alert("You Clicked me");
-}
+console.log('about to fetch a rainbow');
+fetch('rainbow.jpg');
